@@ -57,8 +57,9 @@ Once the Gradio interface is up and running, you can:
 
 ## Demo
 Here’s a sample output from the project:
+<img width="664" alt="Screenshot 2024-09-12 at 7 45 52 PM" src="https://github.com/user-attachments/assets/e970b05c-ad98-46a9-aee5-cece8528fd51">
 
-![Sample Output](path-to-your-screenshot.png)
+<img width="957" alt="Screenshot 2024-09-12 at 7 46 10 PM" src="https://github.com/user-attachments/assets/853a4e9c-8fd2-4f71-bb48-9de5dc893f1f">
 
 ## Contributing
 
